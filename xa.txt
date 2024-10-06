@@ -1,0 +1,395 @@
+An Biên
+An Bình
+An Dương
+An Hải Bắc
+An Hải Đông
+An Hải Tây
+An Hòa
+An Khánh
+An Khê
+An Lạc
+An Lạc A
+An Phú Đông
+An Thới
+Anh Dũng
+Ba Láng
+Bạch Đằng
+Bách Khoa
+Bạch Mai
+Bàng La
+Bắc Sơn
+Bến Nghé
+Bến Thành
+Biên Giang
+Bình Hiên
+Bình Hưng Hòa
+Bình Hưng Hòa A
+Bình Hưng Hòa B
+Bình Thuận
+Bình Thuận
+Bình Thủy
+Bình Trị Đông
+Bình Trị Đông A
+Bình Trị Đông B
+Bồ Đề
+Bùi Hữu Nghĩa
+Bưởi
+Cái Khế
+Cát Bi
+Cát Dài
+Cát Linh
+Cầu Dền
+Cầu Diễn
+Cầu Đất
+Cầu Kho
+Cầu Ông Lãnh
+Cầu Tre
+Châu Văn Liêm
+Chính Gián
+Chương Dương
+Cô Giang
+Cổ Nhuế 1
+Cổ Nhuế 2
+Cống Vị
+Cự Khối
+Cửa Đông
+Cửa Nam
+Dịch Vọng
+Dịch Vọng Hậu
+Dư Hàng
+Dư Hàng Kênh
+Dương Nội
+Đa Kao
+Đa Phúc
+Đại Kim
+Đại Mỗ
+Đằng Giang
+Đằng Hải
+Đằng Lâm
+Điện Biên
+Định Công
+Đội Cấn
+Đông Hải
+Đông Hải 1
+Đông Hải 2
+Đồng Hòa
+Đông Hưng Thuận
+Đông Khê
+Đống Mác
+Đồng Mai
+Đông Ngạc
+Đồng Nhân
+Đồng Quốc Bình
+Đồng Tâm
+Đồng Xuân
+Đức Giang
+Đức Thắng
+Gia Thụy
+Gia Viên
+Giang Biên
+Giảng Võ
+Giáp Bát
+Hà Cầu
+Hạ Đình
+Hạ Lý
+Hải Châu I
+Hải Châu II
+Hải Sơn
+Hải Thành
+Hàng Bạc
+Hàng Bài
+Hàng Bồ
+Hàng Bông
+Hàng Bột
+Hàng Buồm
+Hàng Đào
+Hàng Gai
+Hàng Kênh
+Hàng Mã
+Hàng Trống
+Hiệp Tân
+Hiệp Thành
+Hòa An
+Hòa Cường Bắc
+Hòa Cường Nam
+Hòa Hải
+Hòa Hiệp Bắc
+Hòa Hiệp Nam
+Hòa Khánh Bắc
+Hòa Khánh Nam
+Hòa Khê
+Hòa Minh
+Hòa Nghĩa
+Hòa Phát
+Hòa Quý
+Hòa Thạnh
+Hòa Thọ Đông
+Hòa Thọ Tây
+Hòa Thuận Đông
+Hòa Thuận Tây
+Hòa Xuân
+Hoàng Liệt
+Hoàng Văn Thụ
+Hoàng Văn Thụ
+Hồ Nam
+Hợp Đức
+Hùng Vương
+Hưng Đạo
+Hưng Lợi
+Hưng Phú
+Hưng Thạnh
+Kênh Dương
+Khâm Thiên
+Khuê Mỹ
+Khuê Trung
+Khương Đình
+Khương Mai
+Khương Thượng
+Khương Trung
+Kiến Hưng
+Kim Giang
+Kim Liên
+Kim Mã
+La Khê
+Lạc Viên
+Lạch Tray
+Lãm Hà
+Lam Sơn
+Láng Hạ
+Láng Thượng
+Lê Bình
+Lê Đại Hành
+Lê Lợi
+Liên Mạc
+Liễu Giai
+Lĩnh Nam
+Long Biên
+Long Hòa
+Long Hưng
+Long Tuyền
+Lý Thái Tổ
+Mai Dịch
+Mai Động
+Máy Chai
+Máy Tơ
+Mân Thái
+Mễ Trì
+Minh Đức
+Minh Khai
+Minh Khai
+Minh Khai
+Mộ Lao
+Mỹ An
+Mỹ Đình 1
+Mỹ Đình 2
+Nại Hiên Đông
+Nam Dương
+Nam Đồng
+Nam Hải
+Nam Sơn
+Ngã Tư Sở
+Nghĩa Đô
+Nghĩa Tân
+Nghĩa Xá
+Ngọc Hà
+Ngọc Khánh
+Ngọc Lâm
+Ngọc Sơn
+Ngọc Thụy
+Ngọc Xuyên
+Nguyễn Cư Trinh
+Nguyễn Du
+Nguyễn Thái Bình
+Nguyễn Trãi
+Nguyễn Trung Trực
+Nhân Chính
+Nhật Tân
+Niệm Nghĩa
+Ô Chợ Dừa
+Phạm Đình Hổ
+Phạm Ngũ Lão
+Phan Bội Châu
+Phan Chu Trinh
+Phố Huế
+Phú Diễn
+Phú Đô
+Phú La
+Phú Lãm
+Phù Liễn
+Phú Lương
+Phú Mỹ
+Phú Thạnh
+Phú Thọ Hòa
+Phú Thuận
+Phú Thứ
+Phú Thượng
+Phú Trung
+Phúc Diễn
+Phúc Đồng
+Phúc La
+Phúc Lợi
+Phúc Tân
+Phúc Xá
+Phước Mỹ
+Phước Ninh
+Phước Thới
+Phường 1
+Phường 2
+Phường 3
+Phường 4
+Phường 5
+Phường 6
+Phường 7
+Phường 8
+Phường 9
+Phường 10
+Phường 11
+Phường 12
+Phường 13
+Phường 14
+Phường 15
+Phường 16
+Phường 17
+Phường 18
+Phường 19
+Phường 21
+Phường 22
+Phường 24
+Phường 25
+Phường 26
+Phường 27
+Phường 28
+Phương Canh
+Phương Liên
+Phương Liệt
+Phương Mai
+Quan Hoa
+Quán Thánh
+Quán Toan
+Quán Trữ
+Quảng An
+Quang Trung
+Quang Trung
+Quốc Tử Giám
+Quỳnh Lôi
+Quỳnh Mai
+Sài Đồng
+Sở Dầu
+Sơn Kỳ
+Tam Thuận
+Tân An
+Tân Chánh Hiệp
+Tân Chính
+Tân Định
+Tân Hưng
+Tân Hưng
+Tân Hưng Thuận
+Tân Kiểng
+Tân Lộc
+Tân Mai
+Tân Phong
+Tân Phú
+Tân Phú
+Tân Quy
+Tân Quý
+Tân Sơn Nhì
+Tân Tạo
+Tân Tạo A
+Tân Thành
+Tân Thành
+Tân Thới Hiệp
+Tân Thới Hòa
+Tân Thới Nhất
+Tân Thuận Đông
+Tân Thuận Tây
+Tây Mỗ
+Tây Thạnh
+Tây Tựu
+Thạc Gián
+Thạch Bàn
+Thạch Thang
+Thanh Bình
+Thành Công
+Thạnh Hòa
+Thanh Khê Đông
+Thanh Khê Tây
+Thạnh Lộc
+Thanh Lương
+Thanh Nhàn
+Thành Tô
+Thanh Trì
+Thạnh Xuân
+Thanh Xuân Bắc
+Thanh Xuân Nam
+Thanh Xuân Trung
+Thịnh Liệt
+Thịnh Quang
+Thọ Quang
+Thổ Quan
+Thốt Nốt
+Thới An
+Thới An
+Thới An Đông
+Thới Bình
+Thới Hòa
+Thới Long
+Thới Thuận
+Thuận An
+Thuận Hưng
+Thuận Phước
+Thụy Khuê
+Thụy Phương
+Thượng Cát
+Thượng Đình
+Thượng Lý
+Thường Thạnh
+Thượng Thanh
+Trà An
+Trà Nóc
+Trại Cau
+Trại Chuối
+Tràng Cát
+Tràng Minh
+Tràng Tiền
+Trần Hưng Đạo
+Trần Nguyên Hãn
+Trần Phú
+Trần Thành Ngọ
+Trúc Bạch
+Trung Hòa
+Trung Kiên
+Trung Liệt
+Trung Mỹ Tây
+Trung Nhứt
+Trung Phụng
+Trung Tự
+Trung Văn
+Trương Định
+Trường Lạc
+Tứ Liên
+Tương Mai
+Vạn Hương
+Vạn Mỹ
+Vạn Phúc
+Văn Chương
+Văn Đẩu
+Văn Miếu
+Văn Quán
+Việt Hưng
+Vĩnh Hưng
+Vĩnh Niệm
+Vĩnh Phúc
+Vĩnh Trung
+Vĩnh Tuy
+Võ Thị Sáu
+Xuân Đỉnh
+Xuân Hà
+Xuân Khánh
+Xuân La
+Xuân Phương
+Xuân Tảo
+Yên Hòa
+Yên Nghĩa
+Yên Phụ
+Yên Sở
+Yết Kiêu
